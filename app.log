@@ -1,0 +1,15 @@
+13-Jan-21 18:54:02 - 112208 - WARNING - Exception occured: 
+Traceback (most recent call last):
+  File "C:/Users/bxs366/Desktop/Coding/logging-tutu/app.py", line 15, in <module>
+    c = b / a
+ZeroDivisionError: division by zero
+13-Jan-21 18:56:02 - ERROR - Exception occured: 
+Traceback (most recent call last):
+  File "C:/Users/bxs366/Desktop/Coding/logging-tutu/app.py", line 15, in <module>
+    c = b / a
+ZeroDivisionError: division by zero
+13-Jan-21 18:56:09 - ERROR - Exception occured: 
+Traceback (most recent call last):
+  File "C:/Users/bxs366/Desktop/Coding/logging-tutu/app.py", line 15, in <module>
+    c = b / a
+ZeroDivisionError: division by zero
